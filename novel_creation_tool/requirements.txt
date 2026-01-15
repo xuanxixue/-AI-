@@ -1,0 +1,6 @@
+# GUI框架 (使用Python内置的tkinter，无需额外安装)
+# PyQt5>=5.15.0
+Pillow>=8.0.0
+requests>=2.25.0
+dashscope>=1.17.0
+wxPython>=4.2.0
