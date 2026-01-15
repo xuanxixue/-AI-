@@ -1,0 +1,8 @@
+{
+  "project_name": "测试项目",
+  "api_config": {
+    "api_url": "https://api.openai.com/v1/images/generations",
+    "api_key": "your-api-key-here",
+    "model": "dall-e-3"
+  }
+}
